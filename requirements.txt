@@ -1,0 +1,5 @@
+Todo list should be stored in the Database (DB)
+Create at least one table in DB
+Use django ORM to interact with DB
+As database Postgresql needs to be used
+Use authentication module provided by Django
